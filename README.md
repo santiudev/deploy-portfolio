@@ -32,6 +32,9 @@ env\scripts\activate
 ```
 pip install -r requirements.txt
 ```
+## Remember:
+You have to configure your secret key and your Email settings.
+
 <strong>4.Run migrations</strong>
 ```
 python manage.py makemigrations
